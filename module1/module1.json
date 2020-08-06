@@ -16,7 +16,7 @@
 	"GOENV": "/Users/olaideagboola/Library/Application Support/go/env",
 	"GOEXE": "",
 	"GOFLAGS": "",
-	"GOGCCFLAGS": "-fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fdebug-prefix-map=/var/folders/sr/bmgjky5n2wl2z1m5chfygmlr0000gn/T/go-build271001105=/tmp/go-build -gno-record-gcc-switches -fno-common",
+	"GOGCCFLAGS": "-fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fdebug-prefix-map=/var/folders/sr/bmgjky5n2wl2z1m5chfygmlr0000gn/T/go-build666423382=/tmp/go-build -gno-record-gcc-switches -fno-common",
 	"GOHOSTARCH": "amd64",
 	"GOHOSTOS": "darwin",
 	"GOINSECURE": "",
